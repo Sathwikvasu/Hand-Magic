@@ -22,4 +22,6 @@ python main.py
 Interactive visual lines between fingers of both hands
 
 ## 📸 Demo
-(Add screenshot here)
+
+<img width="801" height="595" alt="Screenshot (72)(1)" src="https://github.com/user-attachments/assets/58afe4db-924b-4b75-8d99-c71ca3dd3b1c" />
+
